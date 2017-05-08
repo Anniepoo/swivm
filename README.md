@@ -1,5 +1,7 @@
 # SWI-Prolog Version Manager
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/fnogatz/swivm.svg)](https://greenkeeper.io/)
+
 SWIVM, the SWI-Prolog Version Manager, is a bash script to manage multiple active SWI-Prolog versions. It provides a uniform command line interface to install and execute SWI-Prolog since version 5. Being an adapted fork of the [Node Version Manager nvm](https://github.com/creationix/nvm) it has a very similar interface.
 
 ## Installation
